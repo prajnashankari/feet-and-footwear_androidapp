@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS users (
     name TEXT,
     email TEXT UNIQUE NOT NULL,
     password TEXT NOT NULL,
-    phone TEXT
+    phone TEXT
 );
 ```
 
