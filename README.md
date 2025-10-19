@@ -44,8 +44,8 @@ CREATE TABLE IF NOT EXISTS users (
 ```
 
 ---
-
-### 3. Install Dependencies
+# (In VS Code)
+### 3. Install Dependencies 
 
 Install required Python packages (e.g. `psycopg2`):
 
