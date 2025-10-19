@@ -44,8 +44,8 @@ CREATE TABLE IF NOT EXISTS users (
 ```
 
 ---
-# (In VS Code)
-### 3. Install Dependencies 
+
+### 3. Install Dependencies (e.g. In VS Code till 5th step)
 
 Install required Python packages (e.g. `psycopg2`):
 
@@ -91,7 +91,7 @@ This will open Expo DevTools in your browser and display a QR code.
 ### 6. Run on Mobile Device
 
 1. Open the **Expo Go App** on your mobile phone.
-2. Scan the QR code displayed in your terminal or browser.
+2. Scan the QR code displayed in your terminal.
 3. The app will load on your mobile device.
 
 ---
