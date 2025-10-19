@@ -2,8 +2,6 @@
 
 This is the mobile version of the **Feet and Footwear** application — a user registration and authentication app using a PostgreSQL backend. This mobile app was built with React Native and uses Expo for development and testing.
 
-The backend functionality is the same as the [Feet and Footwear Web App](https://github.com/prajnashankari/Feet-and-Footwear).
-
 ---
 
 ## 🔧 Requirements
